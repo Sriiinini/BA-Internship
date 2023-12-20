@@ -1,4 +1,4 @@
-# Virtual Data Science Internship - British Airways (through Forage)
+# Virtual Data Science Internship - British Airways
 ---
 
 Welcome to the repository documenting my virtual internship experience with Forage, a platform offering Virtual Work Experiences endorsed by leading companies. These programs are designed to simulate real-world work scenarios, providing valuable insights and practical skills to students eager to kickstart their careers. 
