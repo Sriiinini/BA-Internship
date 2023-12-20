@@ -13,7 +13,7 @@ In this phase, I leveraged web scraping techniques with Beautiful Soup and Natur
 
 The second task involved predicting customer buying behavior. I implemented machine learning algorithms using Python libraries like pandas, matplotlib, and scikit-learn, to construct predictive models and identify the important features in influencing customer behaviour. The results were seamlessly visualized through tools such as Python and Tableau.
 
-I extend my gratitude to Forage for providing students like me with opportunities to apply and refine our skills in a practical setting. This internship has been a valuable experience, allowing me to grow as a data scientist. Thank you, Forage, for this enriching opportunity!
+I extend my gratitude to Forage for providing students like me with opportunities to apply and refine our skills in a practical setting. This internship has been a valuable experience, allowing me to grow as a data scientist. 
 
 ---
  
